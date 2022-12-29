@@ -1,0 +1,21 @@
+body {
+    background-image: url('stars.jpg')
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(187, 10, 207);
+    text-align: center;
+    line-height: 50%;
+}
+.logoMoon {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.homeMoon {
+    height: 3%;
+    width: 3%;
+}
