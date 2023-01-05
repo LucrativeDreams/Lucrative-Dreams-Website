@@ -1,0 +1,168 @@
+body {
+    background-image: url('627835.webp')
+}
+#menu {
+    position: fixed;
+    color: white;
+    height: 20px;
+    text-align: left;
+    font-size: 20pt;
+    font-family: 'Dreamy Romantic', sans-serif;
+    cursor: pointer;
+    border-width: 5px;
+    border-top: 0; 
+    border-left: 0;
+    border-right: 0;
+    background: transparent;
+    min-width: 100%;
+    padding: 40px/*top*/ 0 35px/*bottom*/ 83px;
+}
+.homeMoon {
+    position: fixed;
+    left: -38px;
+    top: -10px;
+}
+#homeButton {
+    position: fixed;
+    text-align: left;
+    color: white;
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 21px;
+    font-family: 'Dreamy Romantic', sans-serif;
+    padding: 20px;
+    top: 90px;
+    min-width: 100%;
+}
+#contactButton {
+    position: fixed;
+    text-align: left;
+    color: white;
+    font-size: 21px;
+    background-color: transparent;
+    border-color: transparent;
+    padding: 20px;
+    top: 95px;
+    font-family: 'Dreamy Romantic', sans-serif;
+    min-width: 100%;
+    margin-top: 60px;
+}
+#socialmediaButton {
+    position: fixed;
+    text-align: left;
+    font-size: 21px;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    padding: 20px;
+    font-family: 'Dreamy Romantic', sans-serif;
+    top: 100px;
+    min-width: 100%;
+    margin-top: 120px;
+}
+#myWork {
+    position: fixed;
+    text-align: left;
+    font-size: 21px;
+    color: white;
+    background-color: transparent;
+    padding: 20px;
+    top: 170px;
+    font-family: 'Dreamy Romantic', sans-serif;
+    min-width: 100%;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    border-color:white;
+    border-width: 5px;
+    border-top: 0; 
+    border-left: 0;
+    border-right: 0;
+    padding: 22px/*top*/ 0 20px/*bottom*/ 20px;
+}
+#contactLabel {
+    position: fixed;
+    text-align: center;
+    font-family: 'Dreamy Romantic', sans-serif;
+    color: white;
+    min-width: 100%;
+    margin: 85px 80px 0 0;
+}
+#twitter {
+    font-family: 'Dreamy Romantic', sans-serif;
+    position: fixed;
+    color: white;
+    margin: 250px 0 100px 0;
+}
+#gmail {
+    position: fixed;
+    color: white;
+    font-family: 'Dreamy Romantic', sans-serif;
+    margin: 160px 0 100px 0;
+}
+#instagram {
+    position: fixed;
+    color: white;
+    font-family: 'Dreamy Romantic', sans-serif;
+    margin: 340px 0 100px 0;
+}
+#twitterButton {
+    position: fixed;
+    color: white;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: -25%;
+    margin: 265px 0 140px 10rem;
+    background: transparent;
+    border-color: transparent;
+    min-width: 50%;
+}
+#gmailButton {
+    position: fixed;
+    color: white;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: -24%;
+    margin: 178px 0 100px 10rem;
+    background: transparent;
+    border-color: transparent;
+    min-width: 50%;
+}
+#instagramButton {
+    position: fixed;
+    color: white;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: -25%;
+    border-color: transparent;
+    margin: 360px 500px 100px 10rem;
+    background: transparent;
+    min-width: 50%;
+}
+#threeLines {
+    position: fixed;
+    margin: 0 0 0 315px;
+    top: 2%;
+}
+#X {
+    position: fixed;
+    top: 3%;
+    margin: 0 0 0 335px;
+}
+.title {
+    position: fixed;
+    text-align: center;
+    font-family: 'Dreamy Romantic', sans-serif;
+    font-size: 30px;
+    color: white;
+    min-width: 100%;
+    margin: 85px 90px 0 0;
+}
+.line1 {
+    height: 50px;
+    width: 50%;
+}
+.cloud {
+    position: fixed;
+    left: 24%;
+    margin: 100px 0px 0 100px;
+}
